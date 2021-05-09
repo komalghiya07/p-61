@@ -1,0 +1,23 @@
+body {
+    background-color: aqua;
+    color: deeppink font-size: 40px;
+}
+
+#welcome {
+    background-color: aquamarine;
+    color: firebrick;
+    font-size: 40px;
+}
+
+#bio {
+    font-size: 40px;
+    background-color: azure;
+    color: chocolate;
+}
+
+li {
+    font-size: 40px;
+    background-color: chartreuse;
+    color: currentColor;
+    font-family: monospace;
+}
